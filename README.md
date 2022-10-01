@@ -1,1 +1,1 @@
-##liga-medical-clinic
+# liga-medical-clinic
